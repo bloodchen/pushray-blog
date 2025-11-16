@@ -3,14 +3,14 @@
     <title>Pushray Blog</title>
     <link href="https://blog.pushray.com/feed.xml" rel="self" />
     <link href="https://blog.pushray.com" />
-    <updated>2025-11-16T13:56:33+08:00</updated>
+    <updated>2025-11-16T14:57:32+08:00</updated>
     <author>
         <name>JeffChen</name>
     </author>
     <id>https://blog.pushray.com</id>
 
     <entry>
-        <title>Test blog</title>
+        <title>Introducing Pushray: A Privacy-First Platform for Secure, Encrypted Sharing</title>
         <author>
             <name>JeffChen</name>
         </author>
@@ -20,12 +20,190 @@
         <updated>2025-11-16T13:56:33+08:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Hello
+                    A new way to share, collaborate, and build — without giving up privacy. Pushray is a privacy-first platform built for secure, encrypted sharing. Our mission is simple: give everyone a modern tool that protects their content, respects their privacy, and never tracks them. No analytics.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Hello</p>
+                <p class="p1"><i>A new way to share, collaborate, and build — without giving up privacy.</i></p>
+<h2><strong>1. What Is Pushray?</strong></h2>
+<p class="p2"> </p>
+<p class="p3">Pushray is a privacy-first platform built for secure, encrypted sharing.</p>
+<p class="p4"><span class="s2">Our mission is simple: </span><strong>give everyone a modern tool that protects their content, respects their privacy, and never tracks them.</strong></p>
+<p class="p2"> </p>
+<p class="p3">No analytics.</p>
+<p class="p3">No profiling.</p>
+<p class="p3">No hidden data collection.</p>
+<p class="p3">Just secure sharing that you fully control.</p>
+<p class="p2"> </p>
+<p class="p3">Today marks the beginning of our private test phase and the first public introduction of Pushray.</p>
+<hr>
+<h2><strong>2. Why Pushray Exists</strong></h2>
+<p class="p2"> </p>
+<p class="p3">Most modern sharing tools make life convenient — but at a cost.</p>
+<p class="p2"> </p>
+<p class="p3">Whether users notice it or not, many platforms:</p>
+<ul>
+<li>
+<p class="p1">scan uploaded content</p>
+</li>
+<li>
+<p class="p1">analyze file metadata</p>
+</li>
+<li>
+<p class="p1">log user behavior</p>
+</li>
+<li>
+<p class="p1">track link activity</p>
+</li>
+<li>
+<p class="p1">attach identifiers or analytics pixels</p>
+</li>
+<li>
+<p class="p1">store more information than necessary</p>
+</li>
+</ul>
+<p class="p2"> </p>
+<p class="p3">This creates a growing gap between what users want and what platforms actually do.</p>
+<p class="p2"> </p>
+<p class="p4"><span class="s2">People deserve a tool that provides </span><strong>security without surveillance</strong><span class="s2">, and </span><strong>convenience without compromise</strong><span class="s2">.</span></p>
+<p class="p2"> </p>
+<p class="p3">Pushray was created to fill that gap.</p>
+<hr>
+<h2><strong>3. Our Core Principles</strong></h2>
+<p class="p2"> </p>
+<h3><strong>🔐 1. End-to-End Encryption</strong></h3>
+<p class="p2"> </p>
+<p class="p3">All shared content is encrypted in a way that ensures only the intended recipient can access it.</p>
+<p class="p3">Not us.</p>
+<p class="p3">Not intermediaries.</p>
+<p class="p3">Not third parties.</p>
+<p class="p4"><strong>Your content remains yours.</strong></p>
+<p class="p2"> </p>
+<h3><strong>🕶 2. True Zero-Tracking</strong></h3>
+<p class="p2"> </p>
+<p class="p3">Pushray does not track, profile, fingerprint, or record user behavior.</p>
+<p class="p3">We do not build shadow profiles.</p>
+<p class="p3">We do not run analytics scripts.</p>
+<p class="p3">We collect only what is technically required — nothing more.</p>
+<p class="p2"> </p>
+<h3><strong>🗂 3. Minimal, Transparent Design</strong></h3>
+<p class="p2"> </p>
+<p class="p3">No unnecessary features.</p>
+<p class="p3">No complex menus.</p>
+<p class="p3">No “hidden activity logs.”</p>
+<p class="p3">Pushray stays clean and simple so users always know what the platform is doing.</p>
+<p class="p2"> </p>
+<h3><strong>🛡 4. Content Ownership</strong></h3>
+<p class="p2"> </p>
+<p class="p3">You decide what to upload, how to share it, when it expires, and who has access.</p>
+<p class="p3">Pushray does not index or analyze your content in any way.</p>
+<p class="p2"> </p>
+<h3><strong>⚡ 5. Fast and Reliable</strong></h3>
+<p class="p2"> </p>
+<p class="p3">Security should not slow you down.</p>
+<p class="p3">Pushray is optimized to deliver encrypted content quickly and reliably across different regions.</p>
+<hr>
+<h2><strong>4. What’s Available in the Private Test</strong></h2>
+<p class="p2"> </p>
+<p class="p3">During this early phase, a focused set of features is available:</p>
+<p class="p2"> </p>
+<h3><strong>✓ Secure File Sharing</strong></h3>
+<ul>
+<li>
+<p class="p1">End-to-end encrypted upload</p>
+</li>
+<li>
+<p class="p1">Private sharing links</p>
+</li>
+<li>
+<p class="p1">Optional expiration</p>
+</li>
+<li>
+<p class="p1">Zero-knowledge delivery flow</p>
+</li>
+</ul>
+<p class="p2"> </p>
+<h3><strong>✓ Private Content Space</strong></h3>
+<p class="p2"> </p>
+<p class="p3">A minimal workspace for managing secure uploads and testing the encrypted environment.</p>
+<p class="p2"> </p>
+<h3><strong>✓ Clean and Lightweight Interface</strong></h3>
+<p class="p2"> </p>
+<p class="p3">Fast, distraction-free, and designed to respect your attention.</p>
+<hr>
+<h2><strong>5. Why a Private Test?</strong></h2>
+<p class="p2"> </p>
+<p class="p3">Before opening to the public, we want to ensure:</p>
+<ul>
+<li>
+<p class="p1">stability under real usage</p>
+</li>
+<li>
+<p class="p1">secure behavior across all edge cases</p>
+</li>
+<li>
+<p class="p1">early feedback from privacy-conscious users</p>
+</li>
+<li>
+<p class="p1">refinements to the user flow</p>
+</li>
+<li>
+<p class="p1">strong foundations before expanding features</p>
+</li>
+</ul>
+<p class="p2"> </p>
+<p class="p3">This stage helps us shape Pushray based on real-world feedback, not assumptions.</p>
+<hr>
+<h2><strong>6. What’s Coming Next</strong></h2>
+<p class="p2"> </p>
+<p class="p3">Our roadmap focuses strictly on <span class="s3"><strong>security, privacy, and clarity</strong></span>. No hidden complexity.</p>
+<p class="p2"> </p>
+<h3><strong>🔜 Advanced Sharing Controls</strong></h3>
+<ul>
+<li>
+<p class="p1">Password-protected links</p>
+</li>
+<li>
+<p class="p1">Granular access permissions</p>
+</li>
+<li>
+<p class="p1">One-time access links</p>
+</li>
+<li>
+<p class="p1">Tighter expiration control</p>
+</li>
+</ul>
+<p class="p2"> </p>
+<h3><strong>🔜 Secure Delivery Enhancements</strong></h3>
+<p class="p2"> </p>
+<p class="p3">Additional measures for link safety, anti-tampering, and optional metadata reduction.</p>
+<p class="p2"> </p>
+<h3><strong>🔜 A More Powerful Private Dashboard</strong></h3>
+<p class="p2"> </p>
+<p class="p3">For organizing secure content without sacrificing simplicity.</p>
+<p class="p2"> </p>
+<h3><strong>🔜 Optional Self-Hosted Mode (Under Exploration)</strong></h3>
+<p class="p2"> </p>
+<p class="p3">For users or organizations who want to operate Pushray on their own infrastructure.</p>
+<hr>
+<h2><strong>7. Our Vision</strong></h2>
+<p class="p2"> </p>
+<p class="p3">Pushray stands for a simple belief:</p>
+<p class="p4"><strong>Privacy should be the default — not an add-on.</strong></p>
+<p class="p3">We are building a platform for people who want security without compromise and a digital tool that treats them with respect.</p>
+<p class="p3">If you’ve ever felt that modern tools collect too much, track too much, or assume too much, Pushray is built for you.</p>
+<p class="p2"> </p>
+<p class="p3">This is just the beginning.</p>
+<hr>
+<h2><strong>8. Join the Private Test</strong></h2>
+<p class="p3">We are onboarding users gradually.</p>
+<p class="p5"><span class="s2">👉 <a href="#"><span class="s4"><strong>Apply for Private Test</strong></span></a><a href="https://forms.gle/sea4nsoWW8mb6BTq7" target="_blank" rel="noopener noreferrer"></a></span></p>
+<p class="p3">👉 Follow updates on X (@Pushray)</p>
+<p class="p3">👉 Community discussions coming soon</p>
+<p class="p2"> </p>
+<p class="p3">Thank you for being here at the start of this journey.</p>
+<p class="p3">More updates will follow soon.</p>
             ]]>
         </content>
     </entry>
