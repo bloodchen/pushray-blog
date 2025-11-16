@@ -3,7 +3,7 @@
     <title>Pushray Blog</title>
     <link href="https://blog.pushray.com/feed.xml" rel="self" />
     <link href="https://blog.pushray.com" />
-    <updated>2025-11-16T14:57:32+08:00</updated>
+    <updated>2025-11-16T15:01:57+08:00</updated>
     <author>
         <name>JeffChen</name>
     </author>
@@ -25,7 +25,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="p1"><i>A new way to share, collaborate, and build — without giving up privacy.</i></p>
+                <figure class="post__image"><img loading="lazy"  src="https://blog.pushray.com/media/posts/1/image.png" alt="" width="1024" height="1024" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://blog.pushray.com/media/posts/1/responsive/image-xs.png 640w ,https://blog.pushray.com/media/posts/1/responsive/image-sm.png 768w ,https://blog.pushray.com/media/posts/1/responsive/image-md.png 1024w ,https://blog.pushray.com/media/posts/1/responsive/image-lg.png 1366w ,https://blog.pushray.com/media/posts/1/responsive/image-xl.png 1600w ,https://blog.pushray.com/media/posts/1/responsive/image-2xl.png 1920w"></figure>
+<p class="p1"><i>A new way to share, collaborate, and build — without giving up privacy.</i></p>
 <h2><strong>1. What Is Pushray?</strong></h2>
 <p class="p2"> </p>
 <p class="p3">Pushray is a privacy-first platform built for secure, encrypted sharing.</p>
